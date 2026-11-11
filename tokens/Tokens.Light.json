@@ -98,7 +98,7 @@
     },
     "color-on-reverse": {
       "$type": "color",
-      "$value": "{White.100}",
+      "$value": "{Yellow-Orange.400}",
       "$description": "",
       "$extensions": {
         "com.figma": {
